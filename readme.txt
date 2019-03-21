@@ -1,2 +1,2 @@
-·ÃÎÊÂ·¾¶£ºhttp://localhost:8080/studentmanager/student/listStudent
-https://www.jianshu.com/p/6a594fbea51d
+è®¿é—®åœ°å€ï¼šhttp://localhost:8080/studentmanager/student/listStudent
+è½¬è½½åœ°å€ï¼šhttps://www.jianshu.com/p/6a594fbea51d
